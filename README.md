@@ -1,6 +1,6 @@
 C# Erişim Belirleyicilerinin Açıklamaları
 1. Public Erişim Belirleyici
-    Tanım: Public erişim belirleyicisi, en geniş erişim seviyesidir. Public olarak işaretlenen bir sınıf üyesine (metot, özellik, alan, vb.) projenin her yerinden erişilebilir. Aynı proje, farklı projeler, farklı assembly'ler (dll dosyaları) ve hatta referans alan diğer uygulamalardan bile erişim sağlanabilir.
+    Tanım: Public erişim belirleyicisi, en geniş erişim seviyesidir. Public olarak işaretlenen bir sınıf üyesine (metot, özellik, alan, vb.) projenin her yerinden  erişilebilir. Aynı proje, farklı projeler, farklı assembly'ler (dll dosyaları) ve hatta referans alan diğer uygulamalardan bile erişim sağlanabilir.
 Kullanım Durumları:
 
 Gerçek Hayat Örneği: Bir alışveriş merkezinin giriş kapısı gibidir. Herkes tarafından kullanılabilir, hiçbir kısıtlama yoktur.
